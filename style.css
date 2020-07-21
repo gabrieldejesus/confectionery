@@ -81,3 +81,32 @@ header {
     width:25px;
     height:25px;
 }
+/* ============================================== PRODUCTS AREA ================================================ */
+main {
+    display:flex;
+    justify-content:center;
+}
+.productsArea {
+    overflow:hidden;
+    height:calc(100vh - 100px);
+    background-color:#FFF;
+    background-repeat:no-repeat;
+    background-position:bottom right;
+    background-image:url('/assets/bg.svg');
+}
+.productsArea .products {
+    width:1000vw;
+    height:100%;
+    background-color:#f1f1f1;
+}
+.productsArea .product {
+    width:100vw;
+    height:100%;
+    display:inline-block;
+}
+.productsArea .productArea {
+    max-width:1176px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+}
