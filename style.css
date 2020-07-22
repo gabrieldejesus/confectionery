@@ -19,6 +19,24 @@
 .column {
     flex-direction:column;
 }
+h1 {
+    margin:0;
+    font-size:40px;
+    font-weight:700;
+    color:var(--black-color);
+}
+h2 {
+    margin:0;
+    font-size:22px;
+    font-weight:700;
+    color:var(--primary-color);
+}
+p {
+    margin:0;
+    font-size:18px;
+    font-weight:700;
+    color:var(--text-color);
+}
 /* ================================================== HEADER ================================================== */
 header {
     height:100px;
@@ -109,4 +127,73 @@ main {
     display:flex;
     align-items:center;
     justify-content:space-between;
+}
+.productsArea .productMain {
+    display:flex;
+    justify-content:center;
+}
+.productsArea .productMain h1 {
+    max-width:380px;
+    margin-top:90px;
+    margin-bottom:26px;
+}
+.productsArea .productMain p {
+    max-width:324px;
+    margin-top:26px;
+    margin-bottom:26px;
+}
+.productsArea .productPrice {
+    font-size:35px;
+    font-weight:700;
+    margin-bottom:26px;
+    color:var(--black-color);
+}
+.productsArea .productOptions {
+    display:flex;
+    align-items:center;
+}
+.productsArea .productQt {
+    width:160px;
+    height:60px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border-radius:16px;
+    background-color:#FFF;
+    box-shadow:0px 10px 40px #DDD;
+}
+.productsArea .productQt button {
+    cursor:pointer;
+    border:0;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border-radius:6px;
+}
+.productsArea .productQt span {
+    font-size:22px;
+    font-weight:700;
+    margin-left:21px;
+    margin-right:21px;
+    color:var(--black-color);
+}
+.productsArea .productImg {
+    display:flex;
+}
+.productsArea .productAddCart {
+    cursor:pointer;
+    width:280px;
+    height:60px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin-left:40px;
+    border-radius:16px;
+    background-color:var(--primary-color);
+}
+.productsArea .productAddCart span {
+    color:#FFF;
+    font-size:18px;
+    font-weight:700;
+    margin-left:10px;
 }
