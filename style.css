@@ -115,7 +115,7 @@ main {
     background-color:#FFF;
     background-repeat:no-repeat;
     background-position:bottom right;
-    background-image:url('/assets/bg.svg');
+    background-image:url('assets/bg.svg');
 }
 .productsArea .products {
     width:1000vw;
