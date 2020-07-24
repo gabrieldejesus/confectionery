@@ -3,7 +3,7 @@
 ![](assets/web-preview.svg)
 
 ## Deployment in
-https://devgabrieldejesus.github.io/confectionery/
+https://devgabrieldejesus.github.io/confectionery
 
 ## Release history
 
