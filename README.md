@@ -2,6 +2,9 @@
 
 ![](assets/web-preview.svg)
 
+## Deployment in
+https://devgabrieldejesus.github.io/confectionery
+
 ## Release history
 
 * 0.0.1
