@@ -117,6 +117,10 @@ main {
     background-position:bottom right;
     background-image:url('assets/bg.svg');
 }
+#products {
+    margin-left:0vw;
+    transition:all 0.3s;
+}
 .productsArea .products {
     width:1000vw;
     height:100%;
