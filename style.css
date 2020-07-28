@@ -189,6 +189,9 @@ main {
     margin-left:74px;
     margin-right:64px;
 }
+.productsArea .productImg img {
+    width:400px;
+}
 .productsArea .productImg img:first-child {
     animation:productImg 1.5s infinite;
 }
