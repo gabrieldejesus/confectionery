@@ -92,7 +92,7 @@ header {
     margin-bottom:50px;
     width:30px;
     height:30px;
-    display:flex;
+    display:none;
     align-items:center;
     justify-content:center;
     color:#FFF;
