@@ -1,5 +1,8 @@
-> 📚 Dedicated project to test what I'm learning with javascript.
+# Confectionery
 
+📚 Dedicated project to test what I'm learning with javascript.
+
+`Web preview`
 ![](assets/web-preview.svg)
 
 ## Deployment in
