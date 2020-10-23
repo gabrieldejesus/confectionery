@@ -58,7 +58,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 _Português_
 
-# Confeitaria
+# Doceria
 
 🧁 Uma página de destino para uma confeitaria
 
